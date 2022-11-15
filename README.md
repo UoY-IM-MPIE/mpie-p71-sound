@@ -12,6 +12,9 @@ To get started, open up your adventure game from last week. Before you begin the
 
 The required sound files for the practical are provided on this repository. For this practical, you can just download the repository as a zip file. Click "Code" and then "Download ZIP". 
 
+## Task 0: Disable 3d character
+Add a standard assets FPS controller and disable your Mixamo character for now. It will make things slightly easier as some collisions and the crosshair object do not work correctly with a 3rd person camera! 
+
 ## Task 1: Empty Gun Sound Effect
 The first problem that the player faces when they enter the scene is that they have no ammunition for their gun. To inform the player of this, and encourage them to go looking for some ammo, edit your shooting script to play the following sound when the player tries to fire their gun when they don’t have any ammo: t1_noammo.mp3 
 
